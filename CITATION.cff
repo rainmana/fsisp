@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "FSISP: Frontier Self-Reference & Inhibition Stability Probe"
+abstract: "A research-oriented LLM evaluation framework for qualitative analysis of model behavior under specific prompt conditions."
+authors:
+  - family-names: "FSISP Contributors"
+type: software
+license: MIT
+repository-code: "https://github.com/rainmana/fsisp"
+keywords:
+  - language models
+  - evaluation framework
+  - qualitative analysis
+  - LLM research
+  - prompt engineering
