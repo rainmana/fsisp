@@ -1,0 +1,14 @@
+# Exclude in-progress work
+in_progress/
+
+# Exclude raw model outputs
+*/raw_outputs/
+raw_outputs/
+
+# Exclude large log files
+*.log
+*.jsonl
+
+# Exclude temporary files
+*.tmp
+.DS_Store
